@@ -1,8 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: service-with-docs
-  description: The place to be
+  name: a-python-library
   namespace: default
   annotations:
     backstage.io/techdocs-ref: dir:.
