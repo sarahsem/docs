@@ -6,6 +6,7 @@ metadata:
   # namespace: default  # Essayez de commenter cette ligne
   annotations:
     backstage.io/techdocs-ref: dir:.
+    gitlab.com/project-s: 'cougar-affair'
 spec:
   type: service
   lifecycle: experimental
