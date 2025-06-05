@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test
   description: The place to be
-  # namespace: default  # Essayez de commenter cette ligne
+  namespace: default  # Essayez de commenter cette ligne
   annotations:
     backstage.io/techdocs-ref: dir:.
     gitlab.com/project-s: 'cougar-affair'
