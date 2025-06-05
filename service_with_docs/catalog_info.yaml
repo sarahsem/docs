@@ -1,8 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: a-python-library
-  namespace: default
+  name: service-with-docs
+  description: The place to be
+  # namespace: default  # Essayez de commenter cette ligne
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
